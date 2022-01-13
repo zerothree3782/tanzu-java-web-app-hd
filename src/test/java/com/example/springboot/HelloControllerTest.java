@@ -21,7 +21,7 @@ class HelloControllerTest {
 
     @Test
     void index() throws Exception {
-        String str = "Greetings from Spring Boot + Tanzu! from GitHub";
+        String str = "Greetings from Spring Boot + Tanzu!";
         assertEquals(str, controller.index());
 
         mockMvc
