@@ -26,7 +26,7 @@ spec:
    - demo-api
   lifecycle: alpha
   owner: demo-team
-  system: demo-app
+  system: tanzu-roadshow
 
 ---
 
@@ -46,7 +46,7 @@ spec:
    - demo-api
   lifecycle: alpha
   owner: demo-team
-  system: demo-app
+  system: tanzu-roadshow
 
 ---
 
