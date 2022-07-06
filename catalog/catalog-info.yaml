@@ -14,5 +14,5 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: demo-team
+  owner: default-team
   system: tanzu-roadshow
