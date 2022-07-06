@@ -76,7 +76,7 @@ spec:
   type: openapi
   lifecycle: experimental
   owner: demo-team
-  system: demo-app # Or specify system name of your choice
+  system: tanzu-roadshow # Or specify system name of your choice
   definition: |
     openapi: 3.0.1
     info:
