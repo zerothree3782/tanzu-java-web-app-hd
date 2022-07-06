@@ -16,6 +16,8 @@ spec:
     openapi: 3.0.2
     servers:
       - url: https://petstore.swagger.io/
+      - url: https://petstore.swagger.io/v2
+      - url: https://petstore.swagger.io/api/v3
     info:
       description: |-
         This is a sample Pet Store Server based on the OpenAPI 3.0 specification.  You can find out more about
