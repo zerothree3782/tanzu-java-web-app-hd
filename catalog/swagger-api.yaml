@@ -26,7 +26,7 @@ spec:
         Some useful links:
         - [The Pet Store repository](https://github.com/swagger-api/swagger-petstore)
         - [The source API definition for the Pet Store](https://github.com/swagger-api/swagger-petstore/blob/master/src/main/resources/openapi.yaml)
-      version: 1.0.11
+      version: '1.0.11'
       title: Swagger Petstore - OpenAPI 3.0
       tags:
         - name: pet
