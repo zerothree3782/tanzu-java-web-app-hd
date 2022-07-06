@@ -45,7 +45,7 @@ spec:
   consumesApis:
    - demo-api
   lifecycle: alpha
-  owner: demo-team
+  owner: default-team
   system: tanzu-roadshow
 
 ---
