@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: Swagger Petstore
+  name: swagger-petstore
   description: The demo API for Tanzu Application Platform GUI
   links:
     - url: https://petstore.swagger.io/
