@@ -13,6 +13,8 @@ metadata:
     'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=tanzu-java-web-app'
 spec:
   type: service
+  consumesApis:
+   - tanzu-java-web-app-api
   lifecycle: experimental
   owner: default-team
   system: tanzu-roadshow
