@@ -19,4 +19,4 @@ spec:
    - demo-api
   lifecycle: experimental
   owner: default-team
-  system: tanzu-roadshow
+  #system: tanzu-roadshow
