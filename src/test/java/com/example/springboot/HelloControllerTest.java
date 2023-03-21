@@ -22,7 +22,7 @@ class HelloControllerTest {
     @Test
     void index() throws Exception {
         String str = "Greetings from Spring Boot + Tanzu! Welcome!!!";
-        assertEquals(str, str);
+        // assertEquals(str, str);
 
         mockMvc
             .perform(get("/"))
